@@ -1,0 +1,7 @@
+# Core dependencies
+python-dotenv==1.0.0
+
+# Add additional dependencies as needed
+# requests==2.31.0
+# beautifulsoup4==4.12.0
+# selenium==4.13.0
